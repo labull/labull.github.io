@@ -13,13 +13,20 @@ permalink: /contact/
 # Dr Lawrence A. Bull
 
 ---
+### Contact:
 
-<l.a.bull@sheffield.ac.uk>
+<lbull@turing.ac.uk>
 
-Dynamics Research Group<br/>
-Department of Mechanical Engineering<br/>
-University of Sheffield<br/>
-Sir Frederick Mappin Building<br/>
-Mappin Street<br/>
-Sheffield<br/>
-S1 3JD
+The Alan Turing Institute,<br/>
+The British Library,<br/>
+London,<br/>
+NW1 2DB,<br/>
+UK
+
+### Affiliated with:
+
+Computational Statistics and Machine Learning Group,<br/>
+Department of Engineering,<br/>
+University of Cambridge,<br/>
+Cambridge,<br/>
+UK

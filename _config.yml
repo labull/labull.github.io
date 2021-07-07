@@ -95,9 +95,9 @@ analytics:
 # Site Author
 author:
   name             : "Lawrence Bull"
-  avatar           : "assets/image.png"
+  avatar           : "assets/mugshot.png"
   bio              : "Research Associate"
-  location         : "University of Sheffield"
+  location         : "The Alan Turing Institute"
   email            :
   links:   
     - label: "Twitter"
