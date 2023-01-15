@@ -1,0 +1,12 @@
+#
+.vscode
+# macOS
+.DS_Store
+
+# Jekyll generated files
+/.quarto/
+/_site/
+
+#
+fetch-info.py
+

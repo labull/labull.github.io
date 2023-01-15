@@ -1,0 +1,32 @@
+project:
+  type: website
+
+website:
+  title: "Lawrence Bull"
+  search: false
+  navbar:
+    left:
+      - papers.qmd
+      - software.qmd
+      - writing.qmd
+      - contact.qmd
+    right:
+      - icon: twitter
+        href: https://twitter.com/lwrncebull?lang=ar
+      - icon: github
+        href: https://github.com/labull
+    background: rgb(245,233,221)
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    mainfont: Courier
+    # mainfont: Monaco
+    fontsize: .98em
+    backgroundcolor: rgb(245,233,221)
+
+
+
+

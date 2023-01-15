@@ -1,0 +1,36 @@
+---
+title: "Lawrence Bull, PhD"
+about:
+  template: solana
+  image: images/mugshot.png
+  links:
+    - text: github
+      href: https://github.com/labull
+    - text: google scholar
+      href: https://scholar.google.com/citations?user=Lszt1B4AAAAJ&hl=en
+    - text: research gate
+      href: https://www.researchgate.net/profile/Lawrence-Bull-2
+    - text: orcid
+      href: https://orcid.org/0000-0002-0225-5010
+    - text: twitter
+      href: https://twitter.com/lwrncebull?lang=ar
+---
+
+<div style="text-align: left"> 
+
+**[2022-2027] University of Cambridge** | [Computational Statistics and Machine Learning Group](https://csml-cam.github.io) | Research Associate | Department of Engineering
+
+**[2021-2022] The Alan Turing Institute** | Research Associate | [Data-Centric Engineering](https://www.turing.ac.uk/research/research-programmes/data-centric-engineering)
+
+**[2016-2021] University of Sheffield** | PhD Student (2016-2019) Research Assistant (2019-2022) | [Dynamics Research Group](https://drg.ac.uk/) | Department of Engineering
+
+</br>
+
+Broadly speaking, I'm a researcher in statistical methods for Data-Centric Engineering. Focussing on monitoring techniques for telemetry data from systems and infrastructure. 
+
+
+I'm particularly interested in _multilevel structures_ that appear in measurements from interconnected populations of systems -- trains, [planes](), [automobiles](https://doi.org/10.48550/arXiv.2204.12404) (... [wind turbines](https://arxiv.org/abs/2111.15496)).
+By encoding domain expertise in a Bayesian workflow, complex models can be built from interpretable units, allowing machines to share information and increase the value of data.
+At the population level, alternative insights can emerge that might otherwise be missed -- the whole is something _besides_ its parts.
+
+I'm a communications editor for the [Data-Centric Engineering](https://www.cambridge.org/core/journals/data-centric-engineering) journal (Cambridge University Press) and a member of the [Early-Career Academic and Professionals Panel](https://www-smartinfrastructure.eng.cam.ac.uk/news/csic-call-applicants-early-career-academics-and-professionals-panel) (ECAPP) in the [Cambridge Centre for Smart Infrastructure and Construction](https://www-smartinfrastructure.eng.cam.ac.uk/) (CSIC).
