@@ -29,7 +29,7 @@ about:
 Broadly speaking, I'm a researcher in statistical methods for Data-Centric Engineering. Focussing on monitoring techniques for telemetry data from systems and infrastructure. 
 
 
-I'm particularly interested in _multilevel structures_ that appear in measurements from interconnected populations of systems -- trains, [planes](), [automobiles](https://doi.org/10.48550/arXiv.2204.12404) (... [wind turbines](https://arxiv.org/abs/2111.15496)).
+I'm particularly interested in _multilevel structures_ that appear in measurements from populations of systems -- trains, [planes](), [automobiles](https://doi.org/10.48550/arXiv.2204.12404) (... [wind turbines](https://arxiv.org/abs/2111.15496)).
 By encoding domain expertise in a Bayesian workflow, complex models can be built from interpretable units, allowing machines to share information and increase the value of data.
 At the population level, alternative insights can emerge that might otherwise be missed -- the whole is something _besides_ its parts.
 
