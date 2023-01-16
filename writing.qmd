@@ -8,7 +8,7 @@ Also blog posts to support and explain research papers.
 Notes for the ROSEHIPS reading group (TBC).
 
 ### [Introduction to Engineering Pattern Recognition](https://github.com/labull/EPR-lectures)
-Guest Lectures for the Advanced Dynamics course at the University of Sheffield in the Engineering dept.
+Guest Lectures for the Advanced Dynamics [MEC452] undergraduate course at the University of Sheffield in the Engineering Dept.
 A light introduction to machine learning in the context of some engineering examples:
 
 - EPR1 | Classifying acoustic emission signals
