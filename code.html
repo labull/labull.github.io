@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Lawrence Bull - Contact</title>
+<title>Lawrence Bull - Code</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -73,13 +73,13 @@ ul.task-list li input[type="checkbox"] {
     <a class="nav-link" href="./papers.html">Papers</a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./code.html">Code</a>
+    <a class="nav-link active" href="./code.html" aria-current="page">Code</a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./writing.html">Writing</a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./contact.html" aria-current="page">Contact</a>
+    <a class="nav-link" href="./contact.html">Contact</a>
   </li>  
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
@@ -108,7 +108,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Contact</h1>
+<h1 class="title">Code</h1>
 </div>
 
 
@@ -122,17 +122,64 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
-<p><br> Lawrence Alexander Bull</p>
-<p><a href="mailto:lab99@cam.ac.uk" class="email">lab99@cam.ac.uk</a><br> Computational Statistics and Machine Learning Group,<br> Department of Engineering,<br> University of Cambridge,<br> UK</p>
-<p><em>7a JJ Thomson Ave,</em><br> <em>Cambridge,</em><br> <em>CB3 0FA,</em> <em>UK</em></p>
-<!-- <lbull@turing.ac.uk><br/>
-The Alan Turing Institute,<br/>
-The British Library,<br/>
-London,<br/>
-NW1 2DB,<br/>
-UK -->
+<section id="epr" class="level1">
+<h1><a href="https://github.com/labull/EngineeringPatternRecognition"><code>EPR</code></a></h1>
+<p>Code to reproduce paper results (or as close as possible, depending on data-availability). Each publication has a Jupyter notebook.</p>
+<p>Mostly probabilistic/Bayesian ML for engineering applications, particularly performance and health monitoring. Scripts are provided to test and demonstrate the <em>EPR</em> module.</p>
+<section id="notebooks-for-papers" class="level2">
+<h2 class="anchored" data-anchor-id="notebooks-for-papers">Notebooks for papers</h2>
+<ul>
+<li><a href="https://doi.org/10.1111/mice.12901">Hierarchical Bayesian modelling for knowledge transfer across engineering fleets via multitask learning (CACAIE, 2022)</a>
+<ul>
+<li>Hierarchical regression models of engineering populations, allowing knowledge transfer between subgroups.</li>
+<li>Applications to truck fleet survival analysis and wind farm power prediction.</li>
+<li>Jupyter notebook <a href="https://github.com/labull/EngineeringPatternRecognition/tree/main/Knowledge-transfer-in-engineering-fleets.ipynb">demo</a> based on truck-fleet survival analysis.</li>
+</ul></li>
+<li><a href="https://doi.org/10.1016/j.jsv.2021.116072">On the transfer of damage detectors between structures: an experimental case study (JSV, 2021)</a>
+<ul>
+<li>Domain adaptation to transfer novelty detectors between aircraft tailplane ground-tests.</li>
+<li>The <a href="https://github.com/labull/EngineeringPatternRecognition/tree/main/TCAdemo.py">TCA code</a> used in the papers.</li>
+</ul></li>
+<li><a href="https://doi.org/10.1016/j.ymssp.2020.106653">Towards semi-supervised and probabilistic classification in structural health monitoring (MSSP, 2020)</a>
+<ul>
+<li>Semi-supervised learning of GMMs via (MAP) expectation maximisation, applied to Gnat aircraft ground-test data to utilise both labelled and unlabelled data.</li>
+<li>Jupyter notebook <a href="https://github.com/labull/EngineeringPatternRecognition/tree/main/Semi-supervised-and-probabilistic-classification-in-SHM-MSSP2020.ipynb">demo</a>; MATLAB <a href="https://github.com/labull/EngineeringPatternRecognition/tree/main/matlab/semi_supervised_GMM">demo</a>.</li>
+</ul></li>
+<li><a href="https://doi.org/10.1016/j.ymssp.2019.106294">Probabilistic active learning: An online framework for structural health monitoring (MSSP, 2019)</a>
+<ul>
+<li>Uncertainty sampling (GMMs) to direct inspections from online data streams from engineering systems. Applied to bridge, lathe, and aircraft monitoring datasets.</li>
+<li>Jupyter notebook <a href="https://github.com/labull/EngineeringPatternRecognition/tree/main/Probabilistic-active-learning-An-online-framework-for-SHM-MSSP2019.ipynb">demo</a>; MATLAB <a href="https://github.com/labull/EngineeringPatternRecognition/tree/main/matlab/active_learning_GMM">demo</a>.</li>
+</ul></li>
+<li><a href="https://doi.org/10.1016/j.jsv.2018.08.040">Active learning for semi-supervised structural health monitoring (JSV, 2018)</a>
+<ul>
+<li>Hierarchical sampling for active learning (the DH active learner) applied to learn a classifier for ground-test vibration data from a Gnat aircraft.</li>
+<li>MATLAB <a href="https://github.com/labull/EngineeringPatternRecognition/tree/main/matlab/cluster_based_active_learning">demo</a>.</li>
+</ul></li>
+</ul>
+</section>
+<section id="algorithms" class="level2">
+<h2 class="anchored" data-anchor-id="algorithms">Algorithms</h2>
+<ul>
+<li>Multitask Learning
+<ul>
+<li><a href="https://www.taylorfrancis.com/books/mono/10.1201/9780429258411/bayesian-data-analysis-andrew-gelman-john-carlin-hal-stern-donald-rubin">Hierarchical regression</a> (Stan)</li>
+</ul></li>
+<li>Domain Adaptation
+<ul>
+<li><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5640675&amp;casa_token=Go7wJy20s-QAAAAA:-LZaw0y0LDV7TFK4ClCSoDbsPWF87A-GD2iklRy3ObjxL7A0lanOe92vM-UCd_WwJY7th6R3-SE">Transfer Component Analysis</a> (TCA)</li>
+</ul></li>
+<li>Partially-supervised learning
+<ul>
+<li><a href="https://doi.org/10.1016/j.ymssp.2019.106294">Active learning by uncertainty sampling in Gaussian Mixture Models</a> (GMMs)</li>
+<li><a href="https://www.morganclaypool.com/doi/pdfplus/10.2200/S00196ED1V01Y200906AIM006?casa_token=0YqCaqxyR1EAAAAA:v8kqB5LBhkclcS30fp0z9DOELXhwlPrqZV2YjJiAK2CuGAPNVoDgId_bODlX6mifibxb1ozTbio">Semi-supervised learning of mixture models</a> via (MAP) expectation maximisation</li>
+<li><a href="https://dl.acm.org/doi/pdf/10.1145/1390156.1390183?casa_token=MaX0vwAsl9kAAAAA:ADzBT6YbRvKUh6DfZOGB1O-eqO8q7v1JLTBLgcN263vjoROp4D6wc3MHkcwxMzX20cgPimPI-Ibx6g">Hierarchical sampling for active learning</a> (the DH active learner)</li>
+</ul></li>
+</ul>
+<p><a href="https://github.com/labull/EngineeringPatternRecognition">Github repo</a></p>
 
 
+</section>
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
