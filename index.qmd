@@ -24,7 +24,7 @@ Researcher in statistical methods for Data-Centric Engineering, specialising in 
 
 
 I'm interested in the dependencies that appear in measurements from populations of machines -- [planes](https://www.sciencedirect.com/science/article/pii/S0022460X21001449), [trains](https://arxiv.org/abs/2403.17820), [automobiles](https://doi.org/10.48550/arXiv.2204.12404) (... [wind turbines](https://arxiv.org/abs/2111.15496)).
-By encoding domain expertise into statistical models, complex representations can be built from interpretable units, allowing machines to share information and increase the value of data.
+By encoding domain expertise into statistical models, complex representations can be built from interpretable units, allowing machines to share information and increasing the value of data.
 <!-- At a systems level, alternative insights can emerge that might otherwise be missed -- the whole is something _besides_ its parts. -->
 
 I'm a communications editor for the [Data-Centric Engineering](https://www.cambridge.org/core/journals/data-centric-engineering) journal and a Visiting Research Fellow at [Cambridge University](https://csml-cam.github.io). I was on the [Early-Career Academic and Professionals Panel](https://www-smartinfrastructure.eng.cam.ac.uk/news/csic-call-applicants-early-career-academics-and-professionals-panel) (2021-2023) in the [Cambridge Centre for Smart Infrastructure and Construction](https://www-smartinfrastructure.eng.cam.ac.uk/) (CSIC).
