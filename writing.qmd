@@ -4,11 +4,13 @@ Tutorial and course notes -- shared for reading group and teaching purposes.
 Also blog posts to support and explain research papers.
 
 ## Notes
-### [Probability primer]()
-Notes for the ROSEHIPS reading group (TBC).
 
 ### [Introduction to Engineering Pattern Recognition](https://github.com/labull/EPR-lectures)
-Guest Lectures for the Advanced Dynamics [MEC452] undergraduate course at the University of Sheffield in the Engineering Dept.
+Initially guest Lectures for the Advanced Dynamics [MEC452] undergraduate course at the University of Sheffield in the Engineering Dept.
+
+Expanded to a workshop for the [IMAC conference, 2024](https://sem.org/pre-con-course-2).
+
+
 A light introduction to machine learning in the context of some engineering examples:
 
 - EPR1 | Classifying acoustic emission signals
