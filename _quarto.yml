@@ -11,10 +11,12 @@ website:
       - writing.qmd
       - contact.qmd
     right:
-      - icon: twitter
-        href: https://twitter.com/lwrncebull?lang=ar
+      - icon: linkedin
+        href: https://www.linkedin.com/in/lawrence-bull-793178109/
       - icon: github
         href: https://github.com/labull
+      - icon: twitter
+        href: https://twitter.com/lwrncebull?lang=ar
     background: rgb(245,233,221)
 
 format:
