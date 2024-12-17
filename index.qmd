@@ -20,7 +20,7 @@ about:
 
 </br>
 
-Researcher Fellow [[Stats, UoG]](https://www.gla.ac.uk/schools/mathematicsstatistics/staff/lawrencebull/#biography) in machine learning for physical systems. Particularly tools to encode structure (via domain knowledge) into data-driven models. Statistical methods for telemetry data from machines and infrastructure.
+Research Fellow [[Stats, UoG]](https://www.gla.ac.uk/schools/mathematicsstatistics/staff/lawrencebull/#biography) in machine learning for physical systems. Particularly tools to encode structure (via domain knowledge) into data-driven models. Statistical methods for telemetry data from machines and infrastructure.
 
 
 Applications have included [planes](https://www.sciencedirect.com/science/article/pii/S0022460X21001449), [trains](https://arxiv.org/abs/2403.17820), [automobiles](https://doi.org/10.48550/arXiv.2204.12404) (.. [wind turbines](https://arxiv.org/abs/2111.15496)).
