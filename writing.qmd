@@ -1,4 +1,4 @@
-# Writing
+<!-- # Writing
 
 Tutorial and course notes -- shared for reading group and teaching purposes.
 Also blog posts to support and explain research papers.
@@ -17,4 +17,4 @@ A light introduction to machine learning in the context of some engineering exam
 
 - EPR2 | Regression analysis of wind turbine power curves
 
-## Paper summaries
+## Paper summaries -->
