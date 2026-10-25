@@ -8,8 +8,23 @@ about:
 <div style="text-align: left">
 
 Research Fellow in machine learning for physical systems [[Phy-ML]](https://www.gla.ac.uk/schools/mathematicsstatistics/research/stats/analytics/machinelearningandai/machinelearningforphysicalsystems/) at the University of Glasgow. 
-Always striving to encode structure into machine learning, to better reflect our scientific knowledge. 
-Applied to condition monitoring and emulation, from rail bridges to peat bogs!
+Always trying to represent knowledge as structure in machine learned representations, to further understanding. 
+Applied to condition and health monitoring, from rail bridges to peat bogs!
+
+
+## [Research projects]
+
+<!-- Integrating telemetry data with applied mathematics, to improve systems **understanding**.  -->
+
+**[2026] (PI) Uncertainty Quantification for Adaptive Emulators** | w/ [Tim Rogers](https://sheffield.ac.uk/mac/people/mech-eng-academic-staff/timothy-rogers), [Vinny Davies](https://www.gla.ac.uk/schools/mathematicsstatistics/staff/vinnydavies/) | DTnet+ pilot project <!-- [£48k] -->
+
+**[2025] (PI) Scaling Cardiac Models by Super-Resolution** | w/ William Ryan, David Dalton | SoftTMech feasibility project <!-- [£13k] -->
+
+**[2023] (CI) Staffordshire Rail Bridge Digital Twin: Phase III** | w/ [Miguel Bravo Haro](https://www.citystgeorges.ac.uk/about/people/academics/miguel-bravo-haro) | Trimble Fund of Cambridge University <!-- [£25k] -->
+
+**[PhD + Post-doc]** Semi-supervised and population-based structural health monitoring: [planes](https://www.sciencedirect.com/science/article/pii/S0022460X21001449), [trains](https://arxiv.org/abs/2403.17820), [automobiles](https://doi.org/10.48550/arXiv.2204.12404), and [wind turbines](https://arxiv.org/abs/2111.15496). Supervisors: [Keith Worden](https://sheffield.ac.uk/mac/people/mech-eng-academic-staff/keith-worden), [Nikos Dervilis](https://sheffield.ac.uk/mac/people/mech-eng-academic-staff/nikolaos-dervilis), [Mark Girolami](https://www.eng.cam.ac.uk/profiles/mag92)
+
+![](images/poincare_section.png){width=50%}
 
 ## [Bio]
 
@@ -21,23 +36,9 @@ Applied to condition monitoring and emulation, from rail bridges to peat bogs!
 
 **[Sep.2016-Jun.2021] University of Sheffield** | Research Assistant (2019-2021) PhD Student (2016-2019) | [Dynamics Research Group](https://drg.ac.uk/) | Department of Engineering
 
-![](images/poincare_section.png){width=50%}
-
-## [Research projects]
-
-Integrating telemetry data with applied mathematics, to improve systems **understanding**. 
-
-**[2026] (PI) Uncertainty Quantification for Adaptive Emulators** | w/ [Tim Rogers](https://sheffield.ac.uk/mac/people/mech-eng-academic-staff/timothy-rogers), [Vinny Davies](https://www.gla.ac.uk/schools/mathematicsstatistics/staff/vinnydavies/) | DTnet+ pilot project [£48k]
-
-**[2025] (PI) Scaling Cardiac Models by Super-Resolution** | w/ William Ryan, David Dalton | SoftTMech feasibility project [£13k]
-
-**[2023] (CI) Staffordshire Rail Bridge Digital Twin: Phase III** | w/ [Miguel Bravo Haro](https://www.citystgeorges.ac.uk/about/people/academics/miguel-bravo-haro) | Trimble Fund of Cambridge University [£25k]
-
-**[PhD + Post-doc]** Semi-supervised and population-based structural health monitoring: [planes](https://www.sciencedirect.com/science/article/pii/S0022460X21001449), [trains](https://arxiv.org/abs/2403.17820), [automobiles](https://doi.org/10.48550/arXiv.2204.12404), and [wind turbines](https://arxiv.org/abs/2111.15496). Supervisors: [Keith Worden](https://sheffield.ac.uk/mac/people/mech-eng-academic-staff/keith-worden), [Nikos Dervilis](https://sheffield.ac.uk/mac/people/mech-eng-academic-staff/nikolaos-dervilis), [Mark Girolami](https://www.eng.cam.ac.uk/profiles/mag92)
-
 ### [PhD supervision]
 
-<!-- - Catlin -->
+- **Caitlin Castelvecchi:** Probabilistic smart sensing for environmental monitoring [w/ [Claire Miller](https://www.gla.ac.uk/schools/mathematicsstatistics/staff/clairemiller/), [Craig Wilkie](https://www.gla.ac.uk/schools/mathematicsstatistics/staff/craigwilkie/), [Abdollah Jalilian](https://www.gla.ac.uk/schools/mathematicsstatistics/staff/abdollahjalilian/)]
 - **Alasdair Pool:** Multiscale modelling of peat bogs [w/ [Raimondo Penta](https://regii1.wordpress.com/2025/07/04/raimondo-penta/), [Vinny Davies](https://www.gla.ac.uk/schools/mathematicsstatistics/staff/vinnydavies/)]
 - **Daniel Clarkson:** Active learning for engineering fleets [w/ [Nikos Dervilis](https://sheffield.ac.uk/mac/people/mech-eng-academic-staff/nikolaos-dervilis), [Keith Worden](https://sheffield.ac.uk/mac/people/mech-eng-academic-staff/keith-worden)]
 - **Sarah Bee**: Multi-task learning for structural health monitoring [w/ [Nikos Dervilis](https://sheffield.ac.uk/mac/people/mech-eng-academic-staff/nikolaos-dervilis), [Keith Worden](https://sheffield.ac.uk/mac/people/mech-eng-academic-staff/keith-worden)]
