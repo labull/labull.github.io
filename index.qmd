@@ -1,15 +1,15 @@
 ---
-title: "Lawrence Bull [PhD]"
+title: "Dr. Lawrence Bull"
 about:
   template: solana
-  image: images/mugshot.png
+  image: images/mugshot_falls_sq_o8x8.gif
 ---
 
 <div style="text-align: left">
 
-Research Fellow in machine learning for physical systems [[Phy-ML]](https://www.gla.ac.uk/schools/mathematicsstatistics/research/stats/analytics/machinelearningandai/machinelearningforphysicalsystems/) at the University of Glasgow. 
-Always trying to represent knowledge as structure in machine learned representations, to further understanding. 
-Applied to condition and health monitoring, from rail bridges to peat bogs!
+Research Fellow in [machine learning for physical systems](https://www.gla.ac.uk/schools/mathematicsstatistics/research/stats/analytics/machinelearningandai/machinelearningforphysicalsystems/) (not AI) at the University of Glasgow.
+I model both engineered systems and the natural environment, using interpretable models to represent knowledge as structure. 
+Applications include condition and health monitoring: from rail bridges and wind turbines to peat bogs and woodlands!
 
 
 ## [Research projects]
