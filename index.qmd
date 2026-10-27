@@ -7,9 +7,7 @@ about:
 
 <div style="text-align: left">
 
-Research Fellow in [machine learning for physical systems](https://www.gla.ac.uk/schools/mathematicsstatistics/research/stats/analytics/machinelearningandai/machinelearningforphysicalsystems/) (not AI) at the University of Glasgow.
-I model both engineered systems and the natural environment, using interpretable models to represent knowledge as structure. 
-Applications include condition and health monitoring: from rail bridges and wind turbines to peat bogs and woodlands!
+Research Fellow in [statistical machine learning](https://www.gla.ac.uk/schools/mathematicsstatistics/research/stats/analytics/machinelearningandai/machinelearningforphysicalsystems/) at the University of Glasgow. I build interpretable models of engineered and natural systems, with expert and physical knowledge encoded within model structure. Applications include health and condition monitoring: from rail bridges and wind turbines to peat bogs and woodland!
 
 
 ## [Research projects]
