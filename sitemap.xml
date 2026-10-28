@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://labull.github.io/writing.html</loc>
+    <loc>https://labull.github.io/page_archive/writing.html</loc>
     <lastmod>2026-04-07T11:52:42.695Z</lastmod>
   </url>
   <url>
-    <loc>https://labull.github.io/code.html</loc>
-    <lastmod>2024-12-16T11:44:26.283Z</lastmod>
-  </url>
-  <url>
-    <loc>https://labull.github.io/outputs.html</loc>
-    <lastmod>2026-04-08T13:34:10.661Z</lastmod>
-  </url>
-  <url>
-    <loc>https://labull.github.io/contact.html</loc>
+    <loc>https://labull.github.io/page_archive/contact.html</loc>
     <lastmod>2024-08-26T16:11:50.096Z</lastmod>
   </url>
   <url>
     <loc>https://labull.github.io/index.html</loc>
-    <lastmod>2026-10-27T09:15:51.283Z</lastmod>
+    <lastmod>2026-10-28T09:29:20.429Z</lastmod>
+  </url>
+  <url>
+    <loc>https://labull.github.io/page_archive/outputs.html</loc>
+    <lastmod>2026-04-08T13:34:10.661Z</lastmod>
+  </url>
+  <url>
+    <loc>https://labull.github.io/page_archive/code.html</loc>
+    <lastmod>2024-12-16T11:44:26.283Z</lastmod>
   </url>
 </urlset>
